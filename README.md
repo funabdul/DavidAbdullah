@@ -2,7 +2,7 @@
 # Hi there, I'm David Abdullah (funabdul) 👋
 
 ## 🚀 About Me
-I am a passionate Software and Data Engineer currently pursuing a Master's in Biomedical Engineering. I focus on building scalable web applications and optimizing technical workflows.
+I am a passionate Software and Data Engineer with a B.S in Computer science and currently pursuing a Master's in Biomedical Engineering. I focus on building scalable web applications and optimizing technical workflows.
 
 * 🔭 I’m currently working on my React Portfolio.
 * 🌱 I’m currently learning advanced CI/CD pipelines and Database Optimization.
